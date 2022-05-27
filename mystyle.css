@@ -1,0 +1,51 @@
+body {
+    background-color: lightblue;
+}
+
+input {
+    margin-top: 100px;
+    margin-left: 30%;
+    width: 350px;
+    height: 40px;
+    display: block;
+    padding-left: 400px;
+}
+
+/*
+#output {
+    margin-top: 100px;
+    margin-left: 37%;
+    width: 350px;
+    height: 40px;
+    display: block;
+    padding-left: 400px;
+}
+*/
+
+/*#output -> id aus index.html*/
+#output {
+    margin-top: 45px;
+    width: auto;
+    background: lightblue;
+    margin-left: 30%;
+    font-size: 30px;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+#btn {
+    width: 350px;
+    height: 80px;
+    color: #fff;
+    background-color: blue;
+    /*removes the shadows of the button*/
+    border-style: none;
+    border-radius: 15px;
+    margin-top: 100px;
+    margin-left: 30%;
+}
+
+h1 {
+    text-align: center;
+    color: #000;
+    margin-top: 50px;
+}
